@@ -24,7 +24,7 @@ Antes de ejecutar el script, asegúrate de tener instalado:
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone [https://github.com/Anyeel/mix-downloader.git](https://github.com/Anyeel/mix-downloader.git)
+    git clone https://github.com/Anyeel/mix-downloader.git
     cd mix-downloader
     ```
 
